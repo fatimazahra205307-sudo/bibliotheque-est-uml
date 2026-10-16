@@ -1169,12 +1169,32 @@
 									"model": {
 										"$ref": "AAAAAAGhROrloKYJLIU="
 									},
+									"subViews": [
+										{
+											"_type": "UMLAttributeView",
+											"_id": "AAAAAAGhResevab+6q4=",
+											"_parent": {
+												"$ref": "AAAAAAGhROrloKYRm1I="
+											},
+											"model": {
+												"$ref": "AAAAAAGhReseY6b7amo="
+											},
+											"font": "Arial;13;0",
+											"parentStyle": true,
+											"left": 613,
+											"top": 318,
+											"width": 95,
+											"height": 13,
+											"text": "+dateEmprunt",
+											"horizontalAlignment": 0
+										}
+									],
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": 608,
 									"top": 313,
 									"width": 105,
-									"height": 10
+									"height": 23
 								},
 								{
 									"_type": "UMLOperationCompartmentView",
@@ -1188,7 +1208,7 @@
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": 608,
-									"top": 323,
+									"top": 336,
 									"width": 105,
 									"height": 10
 								},
@@ -1233,7 +1253,7 @@
 							"left": 608,
 							"top": 288,
 							"width": 104,
-							"height": 45,
+							"height": 58,
 							"nameCompartment": {
 								"$ref": "AAAAAAGhROrloKYMODA="
 							},
@@ -1356,7 +1376,18 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Emprunt"
+					"name": "Emprunt",
+					"attributes": [
+						{
+							"_type": "UMLAttribute",
+							"_id": "AAAAAAGhReseY6b7amo=",
+							"_parent": {
+								"$ref": "AAAAAAGhROrloKYJLIU="
+							},
+							"name": "dateEmprunt",
+							"type": ""
+						}
+					]
 				}
 			]
 		},
