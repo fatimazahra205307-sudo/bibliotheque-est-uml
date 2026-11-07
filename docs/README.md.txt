@@ -1,8 +1,3 @@
-BibliothequeEST
-Modèle UML de la bibliothèque universitaire.
+Documentation
 
-Module : Conception UML
-
-Formation : DUT S3 SDIA
-
-Étudiante : Benkirane Fatima Zahra
+Documents du projet BibliothequeEST
