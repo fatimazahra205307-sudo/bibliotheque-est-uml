@@ -1,3 +1,3 @@
-Documentation
+# Documentation
 
-Documents du projet BibliothequeEST
+Documents du projet BibliothequeEST.
